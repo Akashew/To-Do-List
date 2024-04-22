@@ -1,2 +1,2 @@
 # To-Do-List
-A to do list application created from PHP and MySQL
+To Do list application created from PHP and MySQL
